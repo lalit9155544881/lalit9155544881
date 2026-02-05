@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Lalit kumar
 MERN Stack Developer
 
-## 🌐 Socials:
-(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalitkumar02032002@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
