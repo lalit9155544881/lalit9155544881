@@ -2,7 +2,7 @@
 MERN Stack Developer
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lalitkushwaha07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalitkumar02032002@gmail.com) 
+(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalitkumar02032002@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
